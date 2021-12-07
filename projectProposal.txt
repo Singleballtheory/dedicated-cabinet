@@ -1,0 +1,20 @@
+Name of Student: Scott Hutley
+
+Name of Project: Arcade Showcase
+
+Project's Purpose or Goal: A Web page displaying my friend's at-home dedicated cabinet arcade
+
+List the absolute minimum features the project requires to meet this purpose or goal:
+A visual/clickable display of his current cabinet arcade games with full details.
+
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+C#, React, CSS, custom API(?), Phaser (potentially)
+
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+Customized hit-boxes that allow users to hover over each game cabinet to bring up their respective details and/or available games. Link(s) to dedicated message boards where people buy/sell/trade/discuss all things dedicated cabinet Arcade games. A drop-down list of games that could actually be playable.
+
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+An even more extensive API (I have yet to stumble upon one that is exclusive to cabinet arcade games, which is why I'd have to build the beginnings of one myself), Phaser
+
+Is there anything else you'd like your instructor to know?
+I've kicked this idea around a bit but in settling upon it now, I will need to have a much more robust discussion with my friend regarding what he specifically might find interesting/relevant in a dedicated page as well as what he feels is currently lacking within the collector community. As I get further down the line with the project I imagine I will rely upon his input to prioritize and impliment even more stretch goals.

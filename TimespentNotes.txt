@@ -1,0 +1,30 @@
+12/3 End of day notes -- Had a bit of a hickup with the friend I'm building this for. He wasn't available this afternoon to go over thoughts/ideas/desires for the site so I've more or less just been watching videos and looking stuff up. I found a really nice youtube series on React done by Web Dev Simplified. I honestly can't tell if a lot of the things covered will be stuff I would utilize for this particular site, but for the most part all the videos are 10-20 minutes long and he does them in a "follow along" style. There is a big part of me that thinks a more basic html/javascript site could handle what I will end up making, but I really want to use React so that's what I'm going with. Not sure why I thought I would use C# for the backend, but I can't see that being the case at this point. I did also tinker with a drawio but did not get too far. I feel like I'm further along than it actually appears. 
+
+12/3 Lunch commit notes -- In the process of sorting through hand written notes. I already had a dummy site set up and... it's all gone. So this is a new site *linked properly this time* to the repository I'll be using going forward. Still have a fair amount to go over with my friend and then it will be even more writing things down by hand followed by typing them into the computer, but I do think we have a solid framework to build with. My previous layout iteration was better than the one below, but this is the rough concept/MVP. And I probably will ultimately go with the alternative style because I think it will end up being more clean and it will also showcase his actual games more specifically. He MAY also have a lead on an API which would expand the site considerably. If it comes down to my personally making one, I probably won't take a serious look at implimenting one until we cover APIs in two weeks.
+
+What I did Friday 12/3:
+
+Build (then rebuild) project/repository -- 2 hours
+
+Hand-drawn/Drawio.png layouts and  -- 1 hour total
+
+
+https://mui.com/ -- A React UI library. Has TONS of stuff in it. Spent a lot of time here Note, I have not installed this yet, but based upon all the available styling options in here I'm pretty certain it has everything I will need to get the site looking how I want it.  -- 2 hours
+
+https://www.youtube.com/watch?v=hQAHSlTtcmY&ab_channel=WebDevSimplified Learn React in 30 minutes -- 30 min video
+https://www.youtube.com/watch?v=O6P86uwfdR0&ab_channel=WebDevSimplified React Hooks explained (+/- counter) -- 15 minutes
+https://www.youtube.com/watch?v=kK_Wqx3RnHk&ab_channel=WebDevSimplified Learn useReducer (also using +/- counter) -- 20 minutes
+https://www.youtube.com/watch?v=0ZJgIjIuY7U&ab_channel=WebDevSimplified Learn useEffect (Posts/Users/Comments) -- 15 minutes
+
+https://www.youtube.com/watch?v=t2ypzz6gJm0&ab_channel=WebDevSimplified Learn useRef -- 10 minutes
+
+
+
+Sunday 12/5:
+Project discussion with friend -- 1 hour
+
+https://www.youtube.com/watch?v=cuHDQhDhvPE&ab_channel=Fireship Same app 10 ways -- 20 minutes
+
+
+https://www.youtube.com/watch?v=ujlpzTyJp-M&ab_channel=WebDevSimplified Tooltips with Only CSS -- 15 minutes
+Personal Note: This would be great for displaying some hover text prior to clicking each cabinet!
