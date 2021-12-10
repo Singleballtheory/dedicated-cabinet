@@ -41,3 +41,5 @@ https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
 
 12:30 WIP commit. Created GameDetail and started working on CabinetControl, but stopped so I could grab lunch. 
 
+3:00 WIP commit. Solved a naming issue within App.js (explained the localhost:3000 title I kept seeing). At a bit of an impasse on the project though. I'm leaning towards just hardcoding the games and focusing on their display as opposed to having full CRUD to add/edit/delete any of them. Also nowhere near figuring out how to merge custom link shapes onto the page. I did have the site compiling and showing the Header for a bit so I know that is hooked up correctly, but I don't have a Games.js and subsequently no Game function so the propTypes I'm referencing in GameDetail will keep coming back undefined until I do.
+
