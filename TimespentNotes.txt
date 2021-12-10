@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=0ZJgIjIuY7U&ab_channel=WebDevSimplified Learn us
 
 https://www.youtube.com/watch?v=t2ypzz6gJm0&ab_channel=WebDevSimplified Learn useRef -- 10 minutes
 
-
+----
 
 Sunday 12/5:
 Project discussion with friend -- 1 hour
@@ -28,3 +28,14 @@ https://www.youtube.com/watch?v=cuHDQhDhvPE&ab_channel=Fireship Same app 10 ways
 
 https://www.youtube.com/watch?v=ujlpzTyJp-M&ab_channel=WebDevSimplified Tooltips with Only CSS -- 15 minutes
 Personal Note: This would be great for displaying some hover text prior to clicking each cabinet!
+
+----
+
+Friday 12/10:
+
+9:30am -- 11am. WIP commit. Found some resources for creating custom shaped links/buttons. Will be vital for how users interact with the site.
+
+https://blog.logrocket.com/how-to-use-svgs-in-react/
+https://travishorn.com/buttons-with-custom-shapes-cabdcde7dfd1
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
+
