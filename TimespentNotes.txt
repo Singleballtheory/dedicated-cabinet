@@ -39,3 +39,5 @@ https://blog.logrocket.com/how-to-use-svgs-in-react/
 https://travishorn.com/buttons-with-custom-shapes-cabdcde7dfd1
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
 
+12:30 WIP commit. Created GameDetail and started working on CabinetControl, but stopped so I could grab lunch. 
+
