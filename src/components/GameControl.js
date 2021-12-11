@@ -4,10 +4,12 @@ import GameDetail from "./GameDetail";
 const gameList = [
   {
     name: "test",
-    description: "test",
-    released: "test",
-    cabType: "test",
-    controls: "test"
+    manufacturer: "test",
+    releaseDate: "test",
+    monitor: "test",
+    players: "test",
+    controls: "test",
+    cabinet: "test"
   }
 ];
 
@@ -21,7 +23,7 @@ class GameControl extends React.Component {
   }
 
   render() {
-    let currentlyVisibleState = <GameDetail/>;
+    let currentlyVisibleState = null;
     return (
       <React.Fragment>
         {currentlyVisibleState}

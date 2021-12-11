@@ -7,17 +7,19 @@ function GameDetail(props) {
   return (
     <React.Fragment>
       <h1>{game.name}</h1>
-      <p>{game.description}</p>
-      <p>{game.released}</p>
-      <p>{game.cabinetType}</p>
+      <p>{game.manufacturer}</p>
+      <p>{game.releaseDate}</p>
+      <p>{game.monitor}</p>
+      <p>{game.players}</p>
       <p>{game.controls}</p>
+      <p>{game.cabinet}</p>
       <hr />
     </React.Fragment>
   );
 }
 
 GameDetail.propTypes = {
-  drink: PropTypes.object,
+  game: PropTypes.object,
 };
 
 export default GameDetail;
