@@ -39,7 +39,83 @@ https://blog.logrocket.com/how-to-use-svgs-in-react/
 https://travishorn.com/buttons-with-custom-shapes-cabdcde7dfd1
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
 
-12:30 WIP commit. Created GameDetail and started working on CabinetControl, but stopped so I could grab lunch. 
+12:30 WIP commit. Created GameDetail and started working on CabinetControl, but stopped so I could grab lunch.
 
 3:00 WIP commit. Solved a naming issue within App.js (explained the localhost:3000 title I kept seeing). At a bit of an impasse on the project though. I'm leaning towards just hardcoding the games and focusing on their display as opposed to having full CRUD to add/edit/delete any of them. Also nowhere near figuring out how to merge custom link shapes onto the page. I did have the site compiling and showing the Header for a bit so I know that is hooked up correctly, but I don't have a Games.js and subsequently no Game function so the propTypes I'm referencing in GameDetail will keep coming back undefined until I do.
+
+
+4:30 WIP commit. Got the informational aspects narrowed down and display intentions finalized. Friend/client likes the concept of having smaller tooltip display when mousing over each cabinet and then clicking on the cabinet to see full details, images, description, etc. Was worried I wouldn't have enough to justify making a website, now concerned I have way too much. Below is the information for each game he owns. I have to decide if I still just want to store this data locally or create full CRUD to add the data in via the app itself and use Firestore. Would also need authentication as well most likely. 
+
+https://www.arcade-museum.com/
+
+Name:  NBA Jam Tournament Edition
+Manufacturer:  Midway Games
+Release Date:  1993/1994
+Monitor:  Horizontal
+Players: 4 (Single player, Two-player co-op, One-vs-One, Two-vs-Two)
+Controls:
+--Joystick: 8-way
+--Buttons: 3 (Shoot Pass Turbo)
+Cabinet: Upright/Standard
+
+
+Name: Tournament Cyberball 2072
+Manufacturer:  Atari Games
+Release Date:  1989
+Monitor:  Horizontal
+Players: 4 (Single player, Two-player co-op, One-vs-One, Two-vs-Two)
+Controls:
+--Joystick: 8-way
+--Buttons: 1 (Pass/Lateral/Turbo Boost)
+Cabinet: Upright/Standard, dual monitor
+
+
+Name: Cheyenne
+Manufacturer:  Exidy
+Release Date:  1984
+Monitor:  Horizontal
+Players: 1
+Controls:
+--Mounted Rifle: Optical
+--Buttons: Trigger
+Cabinet: Upright/Standard
+
+
+Name: Pole Position
+Manufacturer:  Atari
+Release Date:  1982
+Monitor:  Horizontal
+Players: 1
+Controls:
+--Steering: Wheel
+--Shifter: 2-postion (low, high)
+--Pedals: 1 (Accelerator)
+Cabinet: Upright/Standard
+
+
+Name: Arch Rivals
+Manufacturer:  Bally Midway
+Release Date:  1989
+Monitor:  Horizontal
+Players: 2 (Single player, One-vs-One)
+Controls:
+--Joystick: 49-position optical
+--Buttons: 2 (Pass/Punch Shoot/Block)
+Cabinet: Upright/Standard
+
+
+Name: Ring King
+Manufacturer:  Nihon Bussan/AV Japan
+Release Date:  1985
+Monitor:  Vertical
+Players: 2 (Single player, One-vs-One)
+Controls:
+--Joystick: 8-way
+--Buttons: 3 (Punch Jab Dodge)
+Cabinet: Upright/Standard
+
+
+Name: Pool Sharks
+Manufacturer: Midway Manufacturing Co. WMS
+Release Date: 1990
 
