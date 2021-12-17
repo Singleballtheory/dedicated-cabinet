@@ -1,12 +1,12 @@
 import React from "react";
+import DedCab from "./img/DedicatedCabinet.png";
 
 function Header(){
   const headerStyle = {
     textAlign: "center",
-    color: "purple"
   }
   return (
-    <h1 style={headerStyle}>Dedicated Cabinet</h1>
+    <h1 style={headerStyle}><img src={DedCab}/></h1>
   );
 }
 

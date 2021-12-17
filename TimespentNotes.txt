@@ -1,3 +1,39 @@
+12/17:
+
+9:30 WIP commit. Trying to make a nice header with css styling, but is not going so well. Went to a place www.canva.com and it kind of feels like I can get a bit more of what I want by creating the entire header there and then importing it as an image.
+
+11:30 UPDATE:  This took forever and it's still not quite what I want (png instead of running with animations, etc) BUT I have a reasonably decent looking header now and it's actually displaying!
+
+----
+
+Friday 12/10:
+
+9:30am -- 11am. WIP commit. Found some resources for creating custom shaped links/buttons. Will be vital for how users interact with the site.
+
+https://blog.logrocket.com/how-to-use-svgs-in-react/
+https://travishorn.com/buttons-with-custom-shapes-cabdcde7dfd1
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
+
+12:30 WIP commit. Created GameDetail and started working on CabinetControl, but stopped so I could grab lunch.
+
+3:00 WIP commit. Solved a naming issue within App.js (explained the localhost:3000 title I kept seeing). At a bit of an impasse on the project though. I'm leaning towards just hardcoding the games and focusing on their display as opposed to having full CRUD to add/edit/delete any of them. Also nowhere near figuring out how to merge custom link shapes onto the page. I did have the site compiling and showing the Header for a bit so I know that is hooked up correctly, but I don't have a Games.js and subsequently no Game function so the propTypes I'm referencing in GameDetail will keep coming back undefined until I do.
+
+
+4:30 WIP commit. Got the informational aspects narrowed down and display intentions finalized. Friend/client likes the concept of having smaller tooltip display when mousing over each cabinet and then clicking on the cabinet to see full details, images, description, etc. Was worried I wouldn't have enough to justify making a website, now concerned I have way too much. Below is the information for each game he owns. I have to decide if I still just want to store this data locally or create full CRUD to add the data in via the app itself and use Firestore. Would also need authentication as well most likely. 
+
+----
+
+Sunday 12/5:
+Project discussion with friend -- 1 hour
+
+https://www.youtube.com/watch?v=cuHDQhDhvPE&ab_channel=Fireship Same app 10 ways -- 20 minutes
+
+
+https://www.youtube.com/watch?v=ujlpzTyJp-M&ab_channel=WebDevSimplified Tooltips with Only CSS -- 15 minutes
+Personal Note: This would be great for displaying some hover text prior to clicking each cabinet!
+
+----
+
 12/3 End of day notes -- Had a bit of a hickup with the friend I'm building this for. He wasn't available this afternoon to go over thoughts/ideas/desires for the site so I've more or less just been watching videos and looking stuff up. I found a really nice youtube series on React done by Web Dev Simplified. I honestly can't tell if a lot of the things covered will be stuff I would utilize for this particular site, but for the most part all the videos are 10-20 minutes long and he does them in a "follow along" style. There is a big part of me that thinks a more basic html/javascript site could handle what I will end up making, but I really want to use React so that's what I'm going with. Not sure why I thought I would use C# for the backend, but I can't see that being the case at this point. I did also tinker with a drawio but did not get too far. I feel like I'm further along than it actually appears. 
 
 12/3 Lunch commit notes -- In the process of sorting through hand written notes. I already had a dummy site set up and... it's all gone. So this is a new site *linked properly this time* to the repository I'll be using going forward. Still have a fair amount to go over with my friend and then it will be even more writing things down by hand followed by typing them into the computer, but I do think we have a solid framework to build with. My previous layout iteration was better than the one below, but this is the rough concept/MVP. And I probably will ultimately go with the alternative style because I think it will end up being more clean and it will also showcase his actual games more specifically. He MAY also have a lead on an API which would expand the site considerably. If it comes down to my personally making one, I probably won't take a serious look at implimenting one until we cover APIs in two weeks.
@@ -20,31 +56,6 @@ https://www.youtube.com/watch?v=t2ypzz6gJm0&ab_channel=WebDevSimplified Learn us
 
 ----
 
-Sunday 12/5:
-Project discussion with friend -- 1 hour
-
-https://www.youtube.com/watch?v=cuHDQhDhvPE&ab_channel=Fireship Same app 10 ways -- 20 minutes
-
-
-https://www.youtube.com/watch?v=ujlpzTyJp-M&ab_channel=WebDevSimplified Tooltips with Only CSS -- 15 minutes
-Personal Note: This would be great for displaying some hover text prior to clicking each cabinet!
-
-----
-
-Friday 12/10:
-
-9:30am -- 11am. WIP commit. Found some resources for creating custom shaped links/buttons. Will be vital for how users interact with the site.
-
-https://blog.logrocket.com/how-to-use-svgs-in-react/
-https://travishorn.com/buttons-with-custom-shapes-cabdcde7dfd1
-https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
-
-12:30 WIP commit. Created GameDetail and started working on CabinetControl, but stopped so I could grab lunch.
-
-3:00 WIP commit. Solved a naming issue within App.js (explained the localhost:3000 title I kept seeing). At a bit of an impasse on the project though. I'm leaning towards just hardcoding the games and focusing on their display as opposed to having full CRUD to add/edit/delete any of them. Also nowhere near figuring out how to merge custom link shapes onto the page. I did have the site compiling and showing the Header for a bit so I know that is hooked up correctly, but I don't have a Games.js and subsequently no Game function so the propTypes I'm referencing in GameDetail will keep coming back undefined until I do.
-
-
-4:30 WIP commit. Got the informational aspects narrowed down and display intentions finalized. Friend/client likes the concept of having smaller tooltip display when mousing over each cabinet and then clicking on the cabinet to see full details, images, description, etc. Was worried I wouldn't have enough to justify making a website, now concerned I have way too much. Below is the information for each game he owns. I have to decide if I still just want to store this data locally or create full CRUD to add the data in via the app itself and use Firestore. Would also need authentication as well most likely. 
 
 https://www.arcade-museum.com/
 
