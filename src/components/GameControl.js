@@ -1,5 +1,6 @@
 import React from "react";
 import GameDetail from "./GameDetail";
+import NavBar from "./NavBar";
 
 const gameList = [
   {
@@ -27,6 +28,7 @@ class GameControl extends React.Component {
     return (
       <React.Fragment>
         {currentlyVisibleState}
+        <NavBar />
       </React.Fragment>
     );
   }
