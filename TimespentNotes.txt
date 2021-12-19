@@ -1,8 +1,19 @@
+12/19:
+
+WIP
+I Broke at 2pm on Friday for lunch and then had an unforeseen circumstance come up so I have to get a couple more hours in today.
+
+Started at 1pm. Filled out remainder of gameInfo. Believe it will be better to store this all in it's own file and export it in, but for now it's in GameList. Also, still doesn't load properly. Hence the WIP. Want to get this commit in before I do something bad though.
+
+----
+
 12/17:
 
 9:30 WIP commit. Trying to make a nice header with css styling, but is not going so well. Went to a place www.canva.com and it kind of feels like I can get a bit more of what I want by creating the entire header there and then importing it as an image.
 
 11:30 UPDATE:  This took forever and it's still not quite what I want (png instead of running with animations, etc) BUT I have a reasonably decent looking header now and it's actually displaying!
+
+1:45 and 2:00 UDATE: Way past time for lunch so I'm giving up for now. Been trying to get the GameList function to build correctly. Finally made a commit that I know doesn't work, but then forgot I had erased the dummy GameList info I was trying to display in the first place so added that back in. Still doesn't work, but hopefully makes it a bit more clear what I was trying to get to display.
 
 ----
 
