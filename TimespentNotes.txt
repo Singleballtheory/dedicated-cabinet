@@ -5,6 +5,8 @@ I Broke at 2pm on Friday for lunch and then had an unforeseen circumstance come 
 
 Started at 1pm. Filled out remainder of gameInfo. Believe it will be better to store this all in it's own file and export it in, but for now it's in GameList. Also, still doesn't load properly. Hence the WIP. Want to get this commit in before I do something bad though.
 
+4:25 WIP Commit. Still not getting the hardcoded tickets to render. I've gone back through the React Fundamentals section trying to figure out where my code is failing. At this point I just need to get my MVP working. I think perhaps the issue is that I have pieces of code that are further along in the React coursework and because I can't see where I've advanced ahead, that's why I can't see the issue. Most of the time it's not even throwing an error and compiles just fine. In it's current state however it is saying game.name in GameDetail is undefined. Prior attempts however it simply rendered the Header and NavBar but nothing else.
+
 ----
 
 12/17:

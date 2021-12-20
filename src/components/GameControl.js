@@ -1,5 +1,6 @@
 import React from "react";
 import GameList from "./GameList";
+import Game from "./Game";
 import GameDetail from "./GameDetail";
 import NavBar from "./NavBar";
 
@@ -31,6 +32,8 @@ class GameControl extends React.Component {
         {currentlyVisibleState}
         <NavBar />
         <GameList />
+        <Game />
+        <GameDetail />
       </React.Fragment>
     );
   }
