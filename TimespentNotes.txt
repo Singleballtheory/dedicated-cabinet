@@ -3,6 +3,10 @@ Started just before 8am.
 
 10am WIP comments. Still getting nowhere. I think I am simply going to move forward and see if I can get the render to work by referencing my rootdown project because I know that had a hard-coded drink list. Stay tuned.
 
+12-1: LUNCH!
+
+1:45 commit. The shell of my project is in and renders finally. Currently re-watching and testing the Web Dev Simplified video on creating mouseover tooltips. Would be a nice way to display the game info if I can get it to work. Also spent some time trying to get better pictures of the games to upload them, but they do not look very good. There's a ton of sunlight coming through the garage windows so I will have to wait until tonight to see if I can get some better photos. 
+
 12/19:
 
 WIP
