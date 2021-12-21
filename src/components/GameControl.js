@@ -84,18 +84,4 @@ class GameControl extends React.Component {
   }
 }
 
-//   render() {
-//     let currentlyVisibleState = null;
-//     return (
-//       <React.Fragment>
-//         {currentlyVisibleState}
-//         <NavBar />
-//         <GameList />
-//         <Game />
-//         <GameDetail />
-//       </React.Fragment>
-//     );
-//   }
-// }
-
 export default GameControl;
