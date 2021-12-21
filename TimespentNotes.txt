@@ -1,3 +1,8 @@
+12/21:
+Started just before 8am. 
+
+10am WIP comments. Still getting nowhere. I think I am simply going to move forward and see if I can get the render to work by referencing my rootdown project because I know that had a hard-coded drink list. Stay tuned.
+
 12/19:
 
 WIP
