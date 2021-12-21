@@ -5,6 +5,13 @@ function Game(props) {
   return (
     <React.Fragment>
       <h1>{props.name}</h1>
+      <p>{props.manufacturer}</p>
+      <p>{props.releaseDate}</p>
+      <p>{props.monitor}</p>
+      <p>{props.players}</p>
+      <p>{props.controls}</p>
+      <p>{props.cabinet}</p>
+      <hr />
     </React.Fragment>
   );
 }
