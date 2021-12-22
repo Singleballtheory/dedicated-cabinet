@@ -7,6 +7,10 @@ Started just before 8am.
 
 1:45 commit. The shell of my project is in and renders finally. Currently re-watching and testing the Web Dev Simplified video on creating mouseover tooltips. Would be a nice way to display the game info if I can get it to work. Also spent some time trying to get better pictures of the games to upload them, but they do not look very good. There's a ton of sunlight coming through the garage windows so I will have to wait until tonight to see if I can get some better photos. 
 
+5pm WIP commit. Having trouble getting am image to come in, but I can see the tooltip info itself so hopefully I'm on the right track! Not yet finished with the Web Dev Simplified tutorial.
+
+----
+
 12/19:
 
 WIP
