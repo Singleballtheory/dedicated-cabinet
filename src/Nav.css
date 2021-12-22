@@ -14,7 +14,6 @@ body {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  /* background-image: url(./DedicatedCabinet.png); */
   background-size: cover;
   background-position: center;
   position: relative;
@@ -22,17 +21,27 @@ body {
 
 .avatar::before,
 .avatar::after {
+  --scale: 0;
+
   position: absolute;
-  content: "";
   top: -.25rem;
   left: 50%;
-  transform: translateX(-50%) translateY(-100%);
+  transform: translateX(-50%) translateY(-100%) scale(var(--scale));
+  transition: 150ms transform;
+  transform-origin: bottom center;
 }
 
 .avatar::before {
   content: attr(data-tooltip);
   color: white;
-  height: 25px;
-  width: 25px;
+  padding: .5rem;
+  border-radius: .3rem;
+  text-align: center;
+  width: max-content;
+  max-width: 100%;
   background: black;
+}
+
+.avatar:hover::before {
+  --scale: 1;
 }

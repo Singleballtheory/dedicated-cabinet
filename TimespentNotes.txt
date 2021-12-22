@@ -1,6 +1,10 @@
 12/22:
 9:30am commit notes. Started at 7:30am. Got a few more photos taken before Epicodus login and started looking at the code some more. I'm going to give this until maybe 11 and if I can't get the image issue resolved I will have to go in a different direction.
 
+10:30 commit notes. BREAKTHRU! I figured out the proper way to bring in an image and have the tooltip function upon mouseover! This is not how I truly want it to display, but this is what I needed to see in order to move forward. Success at last!
+
+----
+
 12/21:
 Started just before 8am.
 
