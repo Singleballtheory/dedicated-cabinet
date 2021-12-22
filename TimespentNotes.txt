@@ -3,6 +3,8 @@
 
 10:30 commit notes. BREAKTHRU! I figured out the proper way to bring in an image and have the tooltip function upon mouseover! This is not how I truly want it to display, but this is what I needed to see in order to move forward. Success at last!
 
+3pm commit notes. Got back from lunch at around 1:30, started to pick back up where I was and my computer completely froze up. Ended up having to do a hard reboot. Does not seem like anything got lost or corrupted. Except time I don't have.
+
 ----
 
 12/21:
