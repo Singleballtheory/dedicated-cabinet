@@ -1,3 +1,10 @@
+12/23:
+Lunch commit. Started working on getting each game button linked to their respective game, but simply ran out of time. Believe I have found a path to the true intent of what this app could be however and though it's not complete, it looks markedly better than it did yesterday.
+
+But the point of this project was never to complete -- or even do -- anything anyway. The point of this project was the time we spent together... awe..
+
+----
+
 12/22:
 9:30am commit notes. Started at 7:30am. Got a few more photos taken before Epicodus login and started looking at the code some more. I'm going to give this until maybe 11 and if I can't get the image issue resolved I will have to go in a different direction.
 
@@ -5,7 +12,7 @@
 
 3pm commit notes. Got back from lunch at around 1:30, started to pick back up where I was and my computer completely froze up. Ended up having to do a hard reboot. Does not seem like anything got lost or corrupted. Except time I don't have.
 
-5pm commit notes. Cannot find any way to add a line break within the tool-tip. I should have never made this with React as everything I'm seeking to do could have been done as a straight HTML/Javascript site. Also probably should have just downloaded a styling library as most of them have built-in tooltips, BUT I'm committed to the one I've built now so that's that. And as I'm writing this I'm realizing I still haven't updated my Readme AT ALL. 
+5pm commit notes. Cannot find any way to add a line break within the tool-tip. I should have never made this with React as everything I'm seeking to do could have been done as a straight HTML/Javascript site. Also probably should have just downloaded a styling library as most of them have built-in tooltips, BUT I'm committed to the one I've built now so that's that. And as I'm writing this I'm realizing I still haven't updated my Readme AT ALL.
 
 ----
 
@@ -167,3 +174,23 @@ Name: Pool Sharks
 Manufacturer: Midway Manufacturing Co. WMS
 Release Date: 1990
 
+Basics of the design figured out. Ideally:
+
+- An image of the arcade space can be used as a background image for the site
+- The game cabinets themselves can be hovered over and clicked on to bring up the different site locations
+
+Locations needed:
+- An "about" page
+- A list of available games that includes:
+  - game specs
+  - full CRUD for managing games (Authentication?)
+- link to Ebay(?)
+- link to existing message board/reddit
+
+------
+
+Alternative style (may make more sense actually):
+Have all the above functionality housed within a controller above the image
+Have all the cabinets clickable, but only bringing up specs for that game individually
+
+This would allow for "list of games" to become far more robust and not limited to availability
