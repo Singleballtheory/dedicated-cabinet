@@ -20,7 +20,7 @@ function NavBar(props) {
   return (
     <React.Fragment>
     <div style={navBarStyle}>
-    <button class="avatar" data-tooltip="Tournament Cyberball 2072" style={{backgroundImage: `url(${Cyberball})`}}></button>
+    <button class="avatar" data-tooltip="Tournament Cyberball 2072" style={{backgroundImage: `url(${Cyberball})`}} onClick={() => props.onAboutClick(props.id)}></button>
     <button class="avatar" data-tooltip="Arch Rivals" style={{backgroundImage: `url(${ArchRivals})`}}></button>
     <button class="avatar" data-tooltip="Cheyenne" style={{backgroundImage: `url(${Cheyenne})`}}></button>
     <button class="avatar" data-tooltip="NBA Jam Tournament Edition" style={{backgroundImage: `url(${NBAJam})`}}></button>
