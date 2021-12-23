@@ -5,6 +5,8 @@
 
 3pm commit notes. Got back from lunch at around 1:30, started to pick back up where I was and my computer completely froze up. Ended up having to do a hard reboot. Does not seem like anything got lost or corrupted. Except time I don't have.
 
+5pm commit notes. Cannot find any way to add a line break within the tool-tip. I should have never made this with React as everything I'm seeking to do could have been done as a straight HTML/Javascript site. Also probably should have just downloaded a styling library as most of them have built-in tooltips, BUT I'm committed to the one I've built now so that's that. And as I'm writing this I'm realizing I still haven't updated my Readme AT ALL. 
+
 ----
 
 12/21:

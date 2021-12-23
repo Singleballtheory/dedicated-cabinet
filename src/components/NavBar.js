@@ -8,7 +8,7 @@ function NavBar(props) {
 
   return (
     <React.Fragment>
-    <div class="avatar" data-tooltip={Cyberball} style={{backgroundImage: `url(${GamePhoto})`}}>
+    <div class="avatar" data-tooltip="test &#013; test" style={{backgroundImage: `url(${GamePhoto})`}}>
     </div>
     <div>
       <button className="buttons" onClick={() => props.onAboutClick()}>About</button>
