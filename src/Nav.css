@@ -13,8 +13,8 @@ body {
 
 .avatar {
   width: 200px;
-  height: 200px;
-  border-radius: 50%;
+  height: 60px;
+  border-radius: 0%;
   background-size: cover;
   background-position: center;
   position: relative;
